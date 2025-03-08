@@ -2,27 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Steps to run server
 
-In the project directory, you can run:
+    Open the project in any editor of choice.
+    Navigate into the server directory cd server.
+    Run npm i or npm install to install the packages.
+    Run npm start to start the server.
 
-### `npm start`
+If configured correctly, you should see a message indicating that the server is running successfully and Database Connected.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
+Client Side Setup
+Steps to run client
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    Navigate into the client directory cd client.
+    Run npm i or npm install to install the packages.
+    Run npm start to run the app on http://localhost:3000.
+    Open http://localhost:3000 to view it in your browser.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!

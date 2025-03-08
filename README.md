@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Steps to run server
 
-    Open the project in any editor of choice.
-    Navigate into the server directory cd server.
-    Run npm i or npm install to install the packages.
-    Run npm start to start the server.
+Open the project in any editor of choice.
+Navigate into the server directory cd server.
+ Run npm i or npm install to install the packages.
+Run npm start to start the server.
 
 If configured correctly, you should see a message indicating that the server is running successfully and Database Connected.
 
@@ -15,10 +15,10 @@ If configured correctly, you should see a message indicating that the server is 
 Client Side Setup
 Steps to run client
 
-    Navigate into the client directory cd client.
-    Run npm i or npm install to install the packages.
-    Run npm start to run the app on http://localhost:3000.
-    Open http://localhost:3000 to view it in your browser.
+Navigate into the client directory cd client.
+Run npm i or npm install to install the packages.
+Run npm start to run the app on http://localhost:3000.
+Open http://localhost:3000 to view it in your browser.
 
 
 
